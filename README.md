@@ -1,6 +1,6 @@
 <div align="center">
 
-<img "images/kursatkilicbannner.png" alt="Kursat Kilic Profile" width="100%">
+<img src="kursatkilicbannner.png" alt="Kursat Kilic Profile" width="100%">
 
 # Kursat Kilic, PhD
 
