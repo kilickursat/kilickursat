@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="kursatkilicbannner.png" alt="Kursat Kilic Profile" width="100%">
-
-# Kursat Kilic, PhD
-
-### AI Researcher | TBM Specialist | Geotechnical Data Scientist | Machine Learning Engineer
-
-Advancing underground construction through Artificial Intelligence, Physics-Informed Neural Networks, and Data-Driven Geomechanics.
-
-</div>
-
 # Kursat Kilic, PhD
 
 ## AI Researcher | Tunnel Boring Machine (TBM) Specialist | Geotechnical AI Scientist | Machine Learning Engineer
